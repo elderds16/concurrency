@@ -1,0 +1,85 @@
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\obj\Debug\net6.0\pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\obj\Debug\net6.0\pizzeria.AssemblyInfoInputs.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\obj\Debug\net6.0\pizzeria.AssemblyInfo.cs
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\obj\Debug\net6.0\pizzeria.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\bin\Debug\net6.0\pizzeria.exe
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\bin\Debug\net6.0\pizzeria.deps.json
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\bin\Debug\net6.0\pizzeria.runtimeconfig.json
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\bin\Debug\net6.0\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\bin\Debug\net6.0\pizzeria.pdb
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\obj\Debug\net6.0\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\obj\Debug\net6.0\refint\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\obj\Debug\net6.0\pizzeria.pdb
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\obj\Debug\net6.0\pizzeria.genruntimeconfig.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated\obj\Debug\net6.0\ref\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.exe
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.deps.json
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.runtimeconfig.json
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.pdb
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.AssemblyInfoInputs.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.AssemblyInfo.cs
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\obj\Debug\net6.0\refint\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.pdb
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.genruntimeconfig.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\obj\Debug\net6.0\ref\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.exe
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.deps.json
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.runtimeconfig.json
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.pdb
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.AssemblyInfoInputs.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.AssemblyInfo.cs
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\obj\Debug\net6.0\refint\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.pdb
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.genruntimeconfig.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST\pizzeria_student_updated LATEST\obj\Debug\net6.0\ref\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.exe
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.deps.json
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.runtimeconfig.json
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.pdb
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.AssemblyInfoInputs.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.AssemblyInfo.cs
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\obj\Debug\net6.0\refint\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.pdb
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.genruntimeconfig.cache
+D:\DOWNLOADS - MOZILLA\pizzeria_student_updated LATEST2\pizzeria_student_updated LATEST\obj\Debug\net6.0\ref\pizzeria.dll
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.exe
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.deps.json
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.runtimeconfig.json
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.dll
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.pdb
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.csproj.AssemblyReference.cache
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.AssemblyInfoInputs.cache
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.AssemblyInfo.cs
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.dll
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\obj\Debug\net6.0\refint\pizzeria.dll
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.pdb
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.genruntimeconfig.cache
+C:\Users\elder\Desktop\SC\latest3\latest3\pizzeria_student_updated LATEST\obj\Debug\net6.0\ref\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.exe
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.deps.json
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.runtimeconfig.json
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\bin\Debug\net6.0\pizzeria.pdb
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.AssemblyInfoInputs.cache
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.AssemblyInfo.cs
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\obj\Debug\net6.0\refint\pizzeria.dll
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.pdb
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\obj\Debug\net6.0\pizzeria.genruntimeconfig.cache
+D:\DOWNLOADS - MOZILLA\latest4\latest4\pizzeria_student_updated LATEST\obj\Debug\net6.0\ref\pizzeria.dll
